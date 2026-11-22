@@ -362,7 +362,7 @@ Interested in:
 `Bioinformatics` • `Computational Biology` • `AI in Healthcare` • `Genomics` • `Drug Discovery`
 
 GitHub:
-https://github.com/gdakshareddybt23
+[https://github.com/iamvarshag]
 
 ---
 
